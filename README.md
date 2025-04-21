@@ -1,128 +1,196 @@
-![Logo](https://cdn.modrinth.com/data/cached_images/a7adcffa3f5581b01eaafb38f5fc8ba96e522316_0.webp)
+![Logo](https://cdn.modrinth.com/data/cached_images/a7adcffa3f5581b01eaafb38f5fc8ba96e522316_0.webp) 
 
-# **Hardcore Technological Modpack**
-Dive deep into the realms of advanced technology and intricate machinery with our Hardcore Technological Modpack. This pack is meticulously crafted for those who thrive on complex engineering and automation challenges. At its core, it features the robust capabilities of Mekanism and the creative mechanics of Create, supplemented by an array of additional mods that push the limits of what you can build and automate.
+# **Big overhaul update!!!**
 
-**Key Features:**
+ 
+## This expansive Minecraft modpack offers complete freedom in how you play and progress. No predefined paths—just endless possibilities!  
 
-**Mekanism:** Harness the power, fusion reactors, and a plethora of machines for ore processing, energy generation, and more. Mekanism brings a suite of high-tech tools and gadgets that enable unparalleled automation and efficiency.
+Do you want to dive into the art of engineering and create sprawling automated factories with **Create**? Or perhaps you're more inclined toward mastering high-tech advancements with **Mekanism**, crafting nuclear powerplants, antimatter systems, and even exploring the stars. No matter your path, **HTech** is designed to let you choose your own destiny. Forge alliances or declare war in multiplayer—collaborate to build thriving empires, or engage in epic battles for dominance.
 
-**Create:** Embrace the steampunk aesthetic with mechanical contraptions, cogwheels, and conveyor belts. Create allows for visually stunning and highly functional machinery that can perform complex tasks with precision and style.
+The gameplay has been enhanced to challenge players with smarter survival mechanics. Venturing into caves unprepared can be treacherous—armor and weapons now play a crucial role in ensuring your safety. For those craving exploration, **YUNG’s structure** mods transform the world, introducing intricate dungeons, expanded ruins, and breathtaking temples waiting to be discovered. And to empower your creativity, vanilla items now feature _**long-awaited**_ crafting recipes that breathe new life into familiar resources.
 
-**Supplementary Mods:** Enhance your experience with additional mods that complement Mekanism and Create, including advanced energy storage solutions, resource management systems, and more.
+With **HTech**, you can combine eras, blending medieval craftsmanship, industrial ingenuity, and futuristic technology for a one-of-a-kind experience.
 
-**Gameplay Experience:**
+### Key Features:
 
-**Complex Automation:** Tackle intricate automation challenges that require strategic thinking and precision engineering. Use the capabilities of both Mekanism and Create to build sprawling automated systems.
 
-**Resource Management:** Efficiently manage your resources with advanced processing techniques and storage solutions. Ensure your factory runs smoothly by optimizing every aspect of production.
+- **Freedom of choice** – Play your way, from medieval conquests to futuristic innovations.
+  
+- **Deep engineering & automation** – Create complex machinery, advanced power systems, and efficient transportation.
+  
+- **Challenging survival mechanics** – Prioritize preparation, as caves and combat require smart decisions and careful planning.
+  
+- **Expansive world exploration** – Encounter revamped structures, dungeons, and ruins filled with treasures and secrets.
+  
+- **Multiplayer dynamics** – Collaborate with friends to build vast empires or compete in thrilling PvP battles.
+  
+- **Custom recipes** – Craft items you’ve always wanted, unlocking new possibilities for gameplay.
+  
 
-**Exploration and Discovery:** Players are encouraged to explore the modpack independently, discovering unique crafts and innovative solutions on their own, making the gameplay experience more engaging and rewarding.
+Whether solo or with friends, HTech lets you shape your own experience. Build, battle, explore, or create—this world is entirely yours!
 
-**Survival Elements:** Experience a hardcore survival environment where mastering technology is key to thriving. Balancing resource collection, base building, and defending against threats will test your skills and ingenuity.
 
-Embark on a journey where technology meets creativity, and only the most dedicated engineers will conquer the challenges ahead!
+- **Require forge 47.4.0**
+  
+- **I recommend using 8GB of RAM**
 
-**Require forge 47.4.0**
 
+
+_Download pls:3_
 
 <details>
-<summary>Modlist</summary>
-
-<ul>
-	<li><a href="https://modrinth.com/mod/fM515JnW">AmbientSounds</a> [6.1.4] by CreativeMD</li>
-	<li><a href="https://modrinth.com/mod/EsAfCjCV">AppleSkin</a> [2.5.1+mc1.20.1] by squeek</li>
-	<li><a href="https://modrinth.com/mod/lhGA9TYQ">Architectury</a> [9.2.14] by shedaniel</li>
-	<li><a href="https://modrinth.com/mod/lOOpEntO">AttributeFix</a> [21.0.4] by Darkhax</li>
-	<li><a href="https://modrinth.com/mod/ZUDRV4lN">Better Fusion Reactor for Mekanism</a> [1.4.5] by igentuman</li>
-	<li><a href="https://modrinth.com/mod/BdKIyOLe">Boat Item View</a> [0.0.5] by 50ap5ud5</li>
-	<li><a href="https://modrinth.com/mod/LwcpSm6L">Camera Overhaul</a> [1.0.0] by Mirsario, Forge Port: CorgiTaco, ConfusingFool93 (AvacadoWizard120)</li>
-	<li><a href="https://modrinth.com/mod/Wb5oqrBJ">Chat Heads</a> [0.13.13] by dzwdz, Fourmisain</li>
-	<li><a href="https://modrinth.com/mod/84USeAvk">Clockwork: Create x Valkyrien Skies</a> [1.20.1-0.1.16-forge-b3b22e39fe]</li>
-	<li><a href="https://modrinth.com/mod/WrpuIfhw">Corpse</a> [1.20.1-1.0.20] by Max Henkel</li>
-	<li><a href="https://modrinth.com/mod/LNytGWDc">Create</a> [0.5.1.j] by simibubi</li>
-	<li><a href="https://modrinth.com/mod/hSSqdyU1">Create : Encased</a> [1.20.1-1.6.2-fix3] by iglee42</li>
-	<li><a href="https://modrinth.com/mod/GWp4jCJj">Create Big Cannons</a> [5.8.2] by rbasamoyai</li>
-	<li><a href="https://modrinth.com/mod/kU1G12Nn">Create Crafts &amp; Additions</a> [1.20.1-1.2.5] by MRH0</li>
-	<li><a href="https://modrinth.com/mod/WuKy9y7l">Create Curios Backtank</a> [1.0.1] by Donne431</li>
-	<li><a href="https://modrinth.com/mod/ZM3tt6p1">Create Diesel Generators</a> [1.20.1-1.2i] by kamień-bot AKA George VI AKA Jesz</li>
-	<li><a href="https://modrinth.com/mod/evMQRxqV">Create Dynamic Light</a> [1.0.2] by Leon</li>
-	<li><a href="https://modrinth.com/mod/JWGBpFUP">Create Enchantment Industry</a> [1.2.9.d] by MarbleGateKeeper &amp; LimonBlaze</li>
-	<li><a href="https://modrinth.com/mod/sH9tXU9f">Create Liquid Fuel</a> [2.1.1-1.20.1] by Forsteri</li>
-	<li><a href="https://modrinth.com/mod/Vg5TIO6d">Create: Connected</a> [0.9.4-mc1.20.1] by Lysine</li>
-	<li><a href="https://modrinth.com/mod/UT2M39wf">Create: Copycats+</a> [2.2.0+mc.1.20.1-forge] by Lysine, Bennyboy1695, Redcat_XVIII</li>
-	<li><a href="https://modrinth.com/mod/x49wilh8">Create: Design n' Decor</a> [0.4.0b] by DrMangoTea, Milky, Luna, Pepa, Spydnel</li>
-	<li><a href="https://modrinth.com/mod/r4Knci2k">Create: Interiors</a> [0.5.6] by sudolev</li>
-	<li><a href="https://modrinth.com/mod/7iJ65LNI">Create: More Automation</a> [0.3.0] by Snakeypro</li>
-	<li><a href="https://modrinth.com/mod/ZzjhlDgM">Create: Steam 'n' Rails</a> [1.6.7+forge-mc1.20.1] by The Railways Team</li>
-	<li><a href="https://modrinth.com/mod/21JTaupZ">Create: Tank Defenses</a> [0.80] by ItsRuby05</li>
-	<li><a href="https://modrinth.com/mod/zvaHXgQz">Create: Trimmed</a> [1.0.0] by TorNato</li>
-	<li><a href="https://modrinth.com/mod/MIxwm5GN">CreateArmory</a> [0.5] by dcchill</li>
-	<li><a href="https://modrinth.com/mod/OsZiaDHq">CreativeCore</a> [2.12.31] by CreativeMD</li>
-	<li><a href="https://modrinth.com/mod/vvuO3ImH">Curios API</a> [5.12.1+1.20.1] by C4</li>
-	<li><a href="https://modrinth.com/mod/PQ5n5B9e">CuriosBackSlot</a> [4.0.6-nc] by Emperor Kermit</li>
-	<li><a href="https://modrinth.com/mod/TsEhjL6r">DamageVignette</a> [2.0.2] by Octol1ttle</li>
-	<li><a href="https://modrinth.com/mod/k3lrwGqk">DarkModeEverywhere</a> [1.20.1-1.2.3] by Buuz135</li>
-	<li><a href="https://modrinth.com/mod/83pFEQVb">Dynamic Asset Generator</a> [4.2.2] by Luke Bemish</li>
-	<li><a href="https://modrinth.com/mod/LQ3K71Q1">Dynamic FPS</a> [3.9.0] by juliand665 &amp; LostLuma</li>
-	<li><a href="https://modrinth.com/mod/sk9rgfiA">Embeddium</a> [0.3.31+mc1.20.1] by embeddedt</li>
-	<li><a href="https://modrinth.com/mod/NNAgCjsB">EntityCulling</a> [1.7.3] by tr7zw</li>
-	<li><a href="https://modrinth.com/mod/k2ZPuTBm">Essential Mod</a> [PujCkawH]</li>
-	<li><a href="https://modrinth.com/mod/Wq5SjeWM">FancyMenu</a> [3.4.6] by Keksuccino</li>
-	<li><a href="https://modrinth.com/mod/9mtu0sUO">Fast IP Ping</a> [1.0.5] by Fallen_Breath</li>
-	<li><a href="https://modrinth.com/mod/uXXizFIs">Ferrite Core</a> [6.0.1] by malte0811</li>
-	<li><a href="https://modrinth.com/mod/eTiYU57B">First Aid</a> [1.20.1-1.1] by ichttt</li>
-	<li><a href="https://modrinth.com/mod/5CTSrY8X">GPUTape</a> [1.0.5] by mr_toad</li>
-	<li><a href="https://modrinth.com/mod/8BmcQJ2H">GeckoLib 4</a> [4.7] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin</li>
-	<li><a href="https://modrinth.com/mod/s3dmwKy5">GlitchCore</a> [0.0.1.1] by Adubbz</li>
-	<li><a href="https://modrinth.com/mod/gHoB7SHO">HT's TreeChop</a> [0.18.8] by hammertater</li>
-	<li><a href="https://modrinth.com/mod/5ZwdcRci">ImmediatelyFast</a> [1.3.6+1.20.4] by RK_01</li>
-	<li><a href="https://modrinth.com/mod/u6dRKJwZ">Just Enough Items</a> [15.20.0.106] by mezz</li>
-	<li><a href="https://modrinth.com/mod/J81TRJWm">Konkrete</a> [1.8.0] by Keksuccino</li>
-	<li><a href="https://modrinth.com/mod/ordsPcFz">Kotlin for Forge</a> [hmeyC41q]</li>
-	<li><a href="https://modrinth.com/mod/Ce6I4WUE">Mekanism</a> [10.4.15] by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd</li>
-	<li><a href="https://modrinth.com/mod/5kBJRF84">Mekanism x Create: Northstar</a> [1.20.1-1.2.0] by Wolfieboy09</li>
-	<li><a href="https://modrinth.com/mod/a6F3uASn">Mekanism: Additions</a> [10.4.15] by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd</li>
-	<li><a href="https://modrinth.com/mod/OFVYKsAk">Mekanism: Generators</a> [10.4.15] by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd</li>
-	<li><a href="https://modrinth.com/mod/tqQpq1lt">Mekanism: Tools</a> [10.4.15] by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd</li>
-	<li><a href="https://modrinth.com/mod/CVT4pFB2">Melody</a> [1.0.2] by Keksuccino</li>
-	<li><a href="https://modrinth.com/mod/NRjRiSSD">Memory Leak Fix</a> [1.1.5] by FX - PR0CESS</li>
-	<li><a href="https://modrinth.com/mod/2W2FL5UY">No Tree Punching</a> [7.1.0] by AlcatrazEscapee</li>
-	<li><a href="https://modrinth.com/mod/KuNKN7d2">Noisium</a> [2.3.0+mc1.20-1.20.1] by Steveplays28</li>
-	<li><a href="https://modrinth.com/mod/XuHYu7cF">Northstar</a> [${0.1cb-1.20.1}] by lightning2401</li>
-	<li><a href="https://modrinth.com/mod/yM94ont6">Not Enough Crashes</a> [4.4.7+1.20.1] by Fudge</li>
-	<li><a href="https://modrinth.com/mod/MPCX6s5C">NotEnoughAnimations</a> [1.9.2] by tr7zw</li>
-	<li><a href="https://modrinth.com/mod/1bZhdhsH">Plasmo Voice</a> [2.1.3] by Apehum</li>
-	<li><a href="https://modrinth.com/mod/gedNE4y2">Player Animator</a> [1.0.2-rc1+1.20] by KosmX</li>
-	<li><a href="https://modrinth.com/mod/tagwiZkJ">Polymorph</a> [0.49.8+1.20.1] by Illusive Soulworks</li>
-	<li><a href="https://modrinth.com/mod/8gkWtwQu">Regeneration</a> [42.1.1] by Nictogen, Suff99, HoldYourWaffle, 50ap5ud5</li>
-	<li><a href="https://modrinth.com/mod/e0bNACJD">Serene Seasons</a> [9.1.0.1] by Adubbz, Forstride</li>
-	<li><a href="https://modrinth.com/mod/PxQSWIcD">Sodium Dynamic Lights</a> [1.0.9] by toni, LambdAurora</li>
-	<li><a href="https://modrinth.com/mod/Es5v4eyq">Sodium Options API</a> [1.0.10] by toni</li>
-	<li><a href="https://modrinth.com/mod/Yg1VT27P">Sodium Options Mod Compat</a> [1.0.0] by Toni, DeeChael</li>
-	<li><a href="https://modrinth.com/mod/qyVF9oeo">Sound Physics Remastered</a> [1.20.1-1.4.8] by Sonic Ether, vlad2305m, Max Henkel, Saint</li>
-	<li><a href="https://modrinth.com/mod/iRfIGC1s">Starlight</a> [1.1.2+forge.1cda73c] by Spottedleaf</li>
-	<li><a href="https://modrinth.com/mod/lWDHr9jE">Tectonic</a> [2.4.1] by Apollo</li>
-	<li><a href="https://modrinth.com/mod/FXDpZRJG">Trackwork Mod</a> [1.1.1b] by Endalion</li>
-	<li><a href="https://modrinth.com/mod/EO8aSHxh">VS Eureka Mod</a> [1.5.1-beta.3]</li>
-	<li><a href="https://modrinth.com/mod/V5ujR2yw">Valkyrien Skies 2</a> [2.3.0-beta.5]</li>
-	<li><a href="https://modrinth.com/mod/Ua7DFN59">YUNG's API</a> [1.20-Forge-4.0.6] by YUNGNICKYOUNG</li>
-	<li><a href="https://modrinth.com/mod/XNlO7sBv">YUNG's Better Desert Temples</a> [1.20-Forge-3.0.3] by YUNGNICKYOUNG, Tera</li>
-	<li><a href="https://modrinth.com/mod/o1C1Dkj5">YUNG's Better Dungeons</a> [1.20-Forge-4.0.4] by YUNGNICKYOUNG, Acarii</li>
-	<li><a href="https://modrinth.com/mod/2BwBOmBQ">YUNG's Better End Island</a> [1.20-Forge-2.0.6] by YUNGNICKYOUNG, Acarii</li>
-	<li><a href="https://modrinth.com/mod/z9Ve58Ih">YUNG's Better Jungle Temples</a> [1.20-Forge-2.0.5] by YUNGNICKYOUNG, Tera</li>
-	<li><a href="https://modrinth.com/mod/HjmxVlSr">YUNG's Better Mineshafts</a> [1.20-Forge-4.0.4] by YUNGNICKYOUNG</li>
-	<li><a href="https://modrinth.com/mod/Z2mXHnxP">YUNG's Better Nether Fortresses</a> [1.20-Forge-2.0.6] by YUNGNICKYOUNG, Acarii</li>
-	<li><a href="https://modrinth.com/mod/3dT9sgt4">YUNG's Better Ocean Monuments</a> [1.20-Forge-3.0.4] by YUNGNICKYOUNG, Tera</li>
-	<li><a href="https://modrinth.com/mod/kidLKymU">YUNG's Better Strongholds</a> [1.20-Forge-4.0.3] by YUNGNICKYOUNG, Acarii</li>
-	<li><a href="https://modrinth.com/mod/t5FRdP87">YUNG's Better Witch Huts</a> [1.20-Forge-3.0.3] by YUNGNICKYOUNG, Acarii</li>
-	<li><a href="https://modrinth.com/mod/Ht4BfYp6">YUNG's Bridges</a> [1.20-Forge-4.0.3] by YUNGNICKYOUNG</li>
-	<li><a href="https://modrinth.com/mod/ZYgyPyfq">YUNG's Extras</a> [1.20-Forge-4.0.3] by YUNGNICKYOUNG, Acarii</li>
-	<li><a href="https://modrinth.com/mod/pJGcKPh1">corpsecurioscompat</a> [2.2.1]</li>
-	<li><a href="https://modrinth.com/mod/Kx9d4acU">pv-addon-lavaplayer-lib</a> [1.1.3] by Apehum</li>
-	<li><a href="https://modrinth.com/mod/7dI2zrDy">pv-addon-sculk</a> [1.1.0] by Apehum</li>
-	<li><a href="https://modrinth.com/mod/K1y8brkJ">pv-addon-soundphysics</a> [1.1.0] by Apehum</li>
-	<li><a href="https://modrinth.com/mod/l6YH9Als">spark</a> [1.10.53] by Luck</li>
+  <ul>
+	<li><a href="https://modrinth.com/mod/JPVSeZZV">1.21.2 Bundle Recipe Backport</a> by Pik4</li>
+	<li><a href="https://modrinth.com/mod/3ufwT9JF">Ad Astra</a> by Alex Nijjar</li>
+	<li><a href="https://modrinth.com/mod/XQDxCBVw">Ad Astra: Giselle Addon</a> by gisellevonbingen</li>
+	<li><a href="https://modrinth.com/mod/iBCLOcBl">Ad Astra: Rocketed</a> by celsiusqc</li>
+	<li><a href="https://modrinth.com/mod/fM515JnW">AmbientSounds</a> by CreativeMD</li>
+	<li><a href="https://modrinth.com/mod/6iTJugQR">Amendments</a> by MehVahdJukaar</li>
+	<li><a href="https://modrinth.com/mod/EsAfCjCV">AppleSkin</a> by squeek</li>
+	<li><a href="https://modrinth.com/mod/lhGA9TYQ">Architectury</a> by shedaniel</li>
+	<li><a href="https://modrinth.com/mod/lOOpEntO">AttributeFix</a> by Darkhax</li>
+	<li><a href="https://modrinth.com/mod/pyFjCT3F">Backported Animal Variants</a> by Akacio Bahno</li>
+	<li><a href="https://modrinth.com/mod/kF6ZFH7j">Ben's Sharks</a> by benndevs</li>
+	<li><a href="https://modrinth.com/mod/Q2OqKxDG">Better Advancements</a> by way2muchnoise</li>
+	<li><a href="https://modrinth.com/mod/zCh7omyG">Better Archeology</a> by Pandarix, Dunk3ll1cht</li>
+	<li><a href="https://modrinth.com/mod/Xh8hkQmD">Better Biome Reblend</a> by FionaTheMortal + UTMG</li>
+	<li><a href="https://modrinth.com/mod/czNFt8ef">Better Foliage</a> by EERussianguy, PaintNinja</li>
+	<li><a href="https://modrinth.com/mod/ZUDRV4lN">Better Fusion Reactor for Mekanism</a> by igentuman</li>
+	<li><a href="https://modrinth.com/mod/BdKIyOLe">Boat Item View</a> by 50ap5ud5</li>
+	<li><a href="https://modrinth.com/mod/2u6LRnMa">Botarium</a> by CodexAdrian</li>
+	<li><a href="https://modrinth.com/mod/m0oRwcZx">CameraOverhaul</a> by Mirsario</li>
+	<li><a href="https://modrinth.com/mod/b5GyyYkp">Charm of Undying</a> by Illusive Soulworks</li>
+	<li><a href="https://modrinth.com/mod/3azQ6p0W">Cherished Worlds</a> by Illusive Soulworks</li>
+	<li><a href="https://modrinth.com/mod/9s6osm5g">Cloth Config v10 API</a> by shedaniel</li>
+	<li><a href="https://modrinth.com/mod/bQ5TJA1E">Continents</a> by Stardust Labs</li>
+	<li><a href="https://modrinth.com/mod/VQP2jDOh">Copper tools and armour</a> by Drew, MCreator</li>
+	<li><a href="https://modrinth.com/mod/WrpuIfhw">Corpse</a> by Max Henkel</li>
+	<li><a href="https://modrinth.com/mod/Xg35A4rS">CraftTweaker</a> by Jaredlll08, Kindlich, StanHebben and TheSilkMiner</li>
+	<li><a href="https://modrinth.com/mod/Nn8Wasaq">CraterLib</a> by HypherionSA, Zenith</li>
+	<li><a href="https://modrinth.com/mod/LNytGWDc">Create</a> by simibubi</li>
+	<li><a href="https://modrinth.com/mod/bFyxs7LI">Create Ad Astra Recipes</a> by LittleButter On Modrinth, LittleButter66 On Curseforge</li>
+	<li><a href="https://modrinth.com/mod/kU1G12Nn">Create Crafts &amp; Additions</a> by MRH0</li>
+	<li><a href="https://modrinth.com/mod/hSSqdyU1">Create Encased</a> by iglee42</li>
+	<li><a href="https://modrinth.com/mod/JWGBpFUP">Create Enchantment Industry</a> by MarbleGateKeeper &amp; LimonBlaze</li>
+	<li><a href="https://modrinth.com/mod/sH9tXU9f">Create Liquid Fuel</a> by Forsteri</li>
+	<li><a href="https://modrinth.com/mod/Vg5TIO6d">Create: Connected</a> by Lysine</li>
+	<li><a href="https://modrinth.com/mod/Mn8ziD0c">Create: High Pressure</a> by Aweeri</li>
+	<li><a href="https://modrinth.com/mod/r4Knci2k">Create: Interiors</a> by sudolev</li>
+	<li><a href="https://modrinth.com/mod/71LJXmxX">Create: Love and War</a> by Proto, Alcoholism</li>
+	<li><a href="https://modrinth.com/mod/7iJ65LNI">Create: More Automation</a> by Snakeypro</li>
+	<li><a href="https://modrinth.com/mod/DG1DoGMN">Create: Simple Coins</a> by GreatCow</li>
+	<li><a href="https://modrinth.com/mod/OsZiaDHq">CreativeCore</a> by CreativeMD</li>
+	<li><a href="https://modrinth.com/mod/Yd4wb5wZ">Critters and Companions</a> by Joosh, EterDelta</li>
+	<li><a href="https://modrinth.com/mod/9GAv60Rl">Crushed Astra</a> by HCH5</li>
+	<li><a href="https://modrinth.com/mod/vvuO3ImH">Curios API</a> by C4</li>
+	<li><a href="https://modrinth.com/mod/PQ5n5B9e">CuriosBackSlot</a> by Emperor Kermit</li>
+	<li><a href="https://modrinth.com/mod/TsEhjL6r">DamageVignette</a> by Octol1ttle</li>
+	<li><a href="https://modrinth.com/mod/k3lrwGqk">DarkModeEverywhere</a> by Buuz135</li>
+	<li><a href="https://modrinth.com/mod/fj4SckMr">DeepDepthNetherite</a> by JTMessenger</li>
+	<li><a href="https://modrinth.com/mod/kZvO1mDq">Default World Type</a> by MelanX</li>
+	<li><a href="https://modrinth.com/mod/WQaxNzFg">Deimos</a> by Mars</li>
+	<li><a href="https://modrinth.com/mod/FDGHOWuC">Deltabox Lib</a> by DannBrown</li>
+	<li><a href="https://modrinth.com/mod/v3CYg2V9">Drippy Loading Screen</a> by Keksuccino</li>
+	<li><a href="https://modrinth.com/mod/83pFEQVb">Dynamic Asset Generator</a> by Luke Bemish</li>
+	<li><a href="https://modrinth.com/mod/LQ3K71Q1">Dynamic FPS</a> by juliand665 &amp; LostLuma</li>
+	<li><a href="https://modrinth.com/mod/jfvCMH0K">Elytra physics</a> by ImJoshh</li>
+	<li><a href="https://modrinth.com/mod/sk9rgfiA">Embeddium</a> by embeddedt</li>
+	<li><a href="https://modrinth.com/mod/NNAgCjsB">EntityCulling</a> by tr7zw</li>
+	<li><a href="https://modrinth.com/mod/k2ZPuTBm">Essential Mod</a></li>
+	<li><a href="https://modrinth.com/mod/Dafp0il6">Experimental Settings Disabler</a> by Eruannie_9</li>
+	<li><a href="https://modrinth.com/mod/Wq5SjeWM">FancyMenu</a> by Keksuccino</li>
+	<li><a href="https://modrinth.com/mod/9mtu0sUO">Fast IP Ping</a> by Fallen_Breath</li>
+	<li><a href="https://modrinth.com/mod/uXXizFIs">Ferrite Core</a> by malte0811</li>
+	<li><a href="https://modrinth.com/mod/NoajjpZQ">Fire Arrows Ignite Fire</a> by Mars</li>
+	<li><a href="https://modrinth.com/mod/eTiYU57B">First Aid</a> by ichttt</li>
+	<li><a href="https://modrinth.com/mod/BzOTnuqM">Fish of Thieves</a> by SteveKunG, PloyiinGz, Gucc1Guy</li>
+	<li><a href="https://modrinth.com/mod/9tJvvpYE">Flan's Mod</a> by jamioflan</li>
+	<li><a href="https://modrinth.com/mod/BOCJKD49">Friends&amp;Foes</a> by Faboslav</li>
+	<li><a href="https://modrinth.com/mod/wYtDgIUZ">Friends&amp;Foes - Flowery Mooblooms</a> by Faboslav</li>
+	<li><a href="https://modrinth.com/mod/5CTSrY8X">GPUTape</a> by mr_toad</li>
+	<li><a href="https://modrinth.com/mod/8BmcQJ2H">GeckoLib 4</a> by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin</li>
+	<li><a href="https://modrinth.com/mod/s3dmwKy5">GlitchCore</a> by Adubbz</li>
+	<li><a href="https://modrinth.com/mod/H1sntfo8">Guard Villagers</a> by TallestEgg, HadeZ/SadNya69 for the textures.</li>
+	<li><a href="https://modrinth.com/mod/gHoB7SHO">HT's TreeChop</a> by hammertater</li>
+	<li><a href="https://modrinth.com/mod/5ZwdcRci">ImmediatelyFast</a> by RK_01</li>
+	<li><a href="https://modrinth.com/mod/u6dRKJwZ">Just Enough Items</a> by mezz</li>
+	<li><a href="https://modrinth.com/mod/kRaE85yQ">Just Enough Mekanism Multiblocks</a> by gisellevonbingen</li>
+	<li><a href="https://modrinth.com/mod/kB56GtWA">Just Enough Professions (JEP)</a> by Mrbysco, ShyNieke</li>
+	<li><a href="https://modrinth.com/mod/J81TRJWm">Konkrete</a> by Keksuccino</li>
+	<li><a href="https://modrinth.com/mod/ordsPcFz">Kotlin for Forge</a></li>
+	<li><a href="https://modrinth.com/mod/umyGl7zF">KubeJS</a> by LatvianModder</li>
+	<li><a href="https://modrinth.com/mod/lrQvJTbf">Less Chorus</a> by un_pogaz</li>
+	<li><a href="https://modrinth.com/mod/qkQbFn8p">Let Your Friend Eating!</a> by TamKungZ_</li>
+	<li><a href="https://modrinth.com/mod/gPCdW0Wr">Make Bubbles Pop</a> by Tschipcraft</li>
+	<li><a href="https://modrinth.com/mod/4hwXMFif">Map Atlases</a> by MehVahdJukaar, Pepperoni__Jabroni__</li>
+	<li><a href="https://modrinth.com/mod/Ce6I4WUE">Mekanism</a> by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd</li>
+	<li><a href="https://modrinth.com/mod/KQwxMOPD">Mekanism: Ad Astra Ores</a> by liberty</li>
+	<li><a href="https://modrinth.com/mod/a6F3uASn">Mekanism: Additions</a> by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd</li>
+	<li><a href="https://modrinth.com/mod/OFVYKsAk">Mekanism: Generators</a> by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd</li>
+	<li><a href="https://modrinth.com/mod/CVT4pFB2">Melody</a> by Keksuccino</li>
+	<li><a href="https://modrinth.com/mod/NRjRiSSD">Memory Leak Fix</a> by FX - PR0CESS</li>
+	<li><a href="https://modrinth.com/mod/zkK9lPaS">Mob Player Animator</a> by Thelnfamous1</li>
+	<li><a href="https://modrinth.com/mod/nmDcB62a">ModernFix</a> by embeddedt</li>
+	<li><a href="https://modrinth.com/mod/twkfQtEc">Moonlight Library</a> by MehVahdJukaar</li>
+	<li><a href="https://modrinth.com/mod/JiEhJ3WG">More Mob Variants</a> by nyuppo</li>
+	<li><a href="https://modrinth.com/mod/aC3cM3Vq">Mouse Tweaks</a> by Ivan Molodetskikh (YaLTeR)</li>
+	<li><a href="https://modrinth.com/mod/cJk2qbxw">Name Pain</a> by naqaden</li>
+	<li><a href="https://modrinth.com/mod/F8BQNPWX">Naturalist</a> by Starfish Studios</li>
+	<li><a href="https://modrinth.com/mod/vI1QKJro">Nether Depths Upgrade</a> by Scouter456</li>
+	<li><a href="https://modrinth.com/mod/2W2FL5UY">No Tree Punching</a> by AlcatrazEscapee</li>
+	<li><a href="https://modrinth.com/mod/KuNKN7d2">Noisium</a> by Steveplays28</li>
+	<li><a href="https://modrinth.com/mod/yM94ont6">Not Enough Crashes</a> by Fudge</li>
+	<li><a href="https://modrinth.com/mod/bQh7xzFq">Not Enough Recipe Book</a> by OctoStudios</li>
+	<li><a href="https://modrinth.com/mod/MPCX6s5C">NotEnoughAnimations</a> by tr7zw</li>
+	<li><a href="https://modrinth.com/mod/dOGM7ccu">Nyf's Spiders</a> by Nyfaria</li>
+	<li><a href="https://modrinth.com/mod/RH2KUdKJ">OctoLib</a> by OctoStudios</li>
+	<li><a href="https://modrinth.com/mod/c7m1mi73">Packet Fixer</a> by TonimatasDEV</li>
+	<li><a href="https://modrinth.com/mod/wjFTvIvm">Pale Garden Backport</a> by DannBrown</li>
+	<li><a href="https://modrinth.com/mod/NfrID7Y9">Planets+</a> by DeadbushCarrot: Owner/Dev</li>
+	<li><a href="https://modrinth.com/mod/6wbvOys7">Planets+ - Mekanism compat</a> by DeadbushCarrot: Owner/Dev</li>
+	<li><a href="https://modrinth.com/mod/1bZhdhsH">Plasmo Voice</a> by Apehum</li>
+	<li><a href="https://modrinth.com/mod/gedNE4y2">Player Animator</a> by KosmX</li>
+	<li><a href="https://modrinth.com/mod/tagwiZkJ">Polymorph</a> by Illusive Soulworks</li>
+	<li><a href="https://modrinth.com/mod/2gvRmQXx">Radium</a> by dima_dencep, NanoLive</li>
+	<li><a href="https://modrinth.com/mod/tu54PMAb">Realm RPG: Fallen Adventurers</a> by NoCube</li>
+	<li><a href="https://modrinth.com/mod/8gkWtwQu">Regeneration</a> by Nictogen, Suff99, HoldYourWaffle, 50ap5ud5</li>
+	<li><a href="https://modrinth.com/mod/G1hIVOrD">Resourceful Lib</a> by ThatGravyBoat, Epic_Oreo</li>
+	<li><a href="https://modrinth.com/mod/M1953qlQ">Resourcefulconfig</a></li>
+	<li><a href="https://modrinth.com/mod/sk9knFPE">Rhino</a> by latvian.dev, Mozilla</li>
+	<li><a href="https://modrinth.com/mod/e0bNACJD">Serene Seasons</a> by Adubbz, Forstride</li>
+	<li><a href="https://modrinth.com/mod/ObXSoyrn">Simple RPC</a> by HypherionMC</li>
+	<li><a href="https://modrinth.com/mod/3WP3HZRG">Simple Snowy Fix</a> by KostromDan, Apollo</li>
+	<li><a href="https://modrinth.com/mod/yBLrXpfD">Skay's Overworld Quartz Ore</a> by ItzSkay</li>
+	<li><a href="https://modrinth.com/mod/z53V2L4P">Smooth Boot (Reloaded)</a> by AbdElAziz</li>
+	<li><a href="https://modrinth.com/mod/PxQSWIcD">Sodium Dynamic Lights</a> by toni, LambdAurora</li>
+	<li><a href="https://modrinth.com/mod/Es5v4eyq">Sodium Options API</a> by toni</li>
+	<li><a href="https://modrinth.com/mod/Yg1VT27P">Sodium Options Mod Compat</a> by Toni, DeeChael</li>
+	<li><a href="https://modrinth.com/mod/qyVF9oeo">Sound Physics Remastered</a> by Sonic Ether, vlad2305m, Max Henkel, Saint</li>
+	<li><a href="https://modrinth.com/mod/LN9BxssP">SuperMartijn642's Config Library</a> by SuperMartijn642</li>
+	<li><a href="https://modrinth.com/mod/fFEIiSDQ">Supplementaries</a> by MehVahdJukaar, Plantkillable</li>
+	<li><a href="https://modrinth.com/mod/dCCkNFwE">Supplementaries Squared</a> by MehVahdJukaar, Plantkillable</li>
+	<li><a href="https://modrinth.com/mod/nqVt6aES">TARDIS Refined</a> by CommandrMoose / River, Jeryn99, Magic Man, ILikePandas, Jacob K, 50ap5ud5</li>
+	<li><a href="https://modrinth.com/mod/lWDHr9jE">Tectonic</a> by Apollo</li>
+	<li><a href="https://modrinth.com/mod/kkmrDlKT">TerraBlender</a> by Adubbz</li>
+	<li><a href="https://modrinth.com/mod/mI4xkilT">True Darkness</a></li>
+	<li><a href="https://modrinth.com/mod/MRK4tULJ">Underground Bunkers</a> by Zephyrusjz, Aureljz</li>
+	<li><a href="https://modrinth.com/mod/Ua7DFN59">YUNG's API</a> by YUNGNICKYOUNG</li>
+	<li><a href="https://modrinth.com/mod/XNlO7sBv">YUNG's Better Desert Temples</a> by YUNGNICKYOUNG, Tera</li>
+	<li><a href="https://modrinth.com/mod/o1C1Dkj5">YUNG's Better Dungeons</a> by YUNGNICKYOUNG, Acarii</li>
+	<li><a href="https://modrinth.com/mod/2BwBOmBQ">YUNG's Better End Island</a> by YUNGNICKYOUNG, Acarii</li>
+	<li><a href="https://modrinth.com/mod/z9Ve58Ih">YUNG's Better Jungle Temples</a> by YUNGNICKYOUNG, Tera</li>
+	<li><a href="https://modrinth.com/mod/HjmxVlSr">YUNG's Better Mineshafts</a> by YUNGNICKYOUNG</li>
+	<li><a href="https://modrinth.com/mod/Z2mXHnxP">YUNG's Better Nether Fortresses</a> by YUNGNICKYOUNG, Acarii</li>
+	<li><a href="https://modrinth.com/mod/3dT9sgt4">YUNG's Better Ocean Monuments</a> by YUNGNICKYOUNG, Tera</li>
+	<li><a href="https://modrinth.com/mod/kidLKymU">YUNG's Better Strongholds</a> by YUNGNICKYOUNG, Acarii</li>
+	<li><a href="https://modrinth.com/mod/t5FRdP87">YUNG's Better Witch Huts</a> by YUNGNICKYOUNG, Acarii</li>
+	<li><a href="https://modrinth.com/mod/Ht4BfYp6">YUNG's Bridges</a> by YUNGNICKYOUNG</li>
+	<li><a href="https://modrinth.com/mod/ZYgyPyfq">YUNG's Extras</a> by YUNGNICKYOUNG, Acarii</li>
+	<li><a href="https://modrinth.com/mod/pJGcKPh1">corpsecurioscompat</a></li>
+	<li><a href="https://modrinth.com/mod/Kx9d4acU">pv-addon-lavaplayer-lib</a> by Apehum</li>
+	<li><a href="https://modrinth.com/mod/7dI2zrDy">pv-addon-sculk</a> by Apehum</li>
+	<li><a href="https://modrinth.com/mod/K1y8brkJ">pv-addon-soundphysics</a> by Apehum</li>
+	<li><a href="https://modrinth.com/mod/l6YH9Als">spark</a> by Luck</li>
 </ul>
 </details>
 
